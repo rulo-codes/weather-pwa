@@ -1,6 +1,6 @@
 {
-    "short_name": "Weather PWA",
-    "name": "Weather Progressive Web App",
+    "short_name": "Weather App",
+    "name": "PWA - Weather App",
     "icons": [
         {
             "src": "/images/logo.png",
